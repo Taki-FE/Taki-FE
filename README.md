@@ -2,7 +2,7 @@
 - 👀 I’m interested in designing and building aesthetic and optimal user-friendly web apps and designs.
 - 🌱 I’m currently learning JavaScript.
 - 💞️ I’m looking to collaborate on UI/UX Design projects.
-- 📫 Contact me @ takithejoggers@gmail.com
+- 📫 Contact me @ therealtaki.z@gmail.com
 
 <!---
 Taki/Taki-FE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
