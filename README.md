@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Taki.
 - 👀 I’m interested in designing and building aesthetic and optimal user-friendly web apps and designs.
-- 🌱 I’m currently learning JavaScript.
+- 🌱 I’m currently learning JavaScript, TailwindCSS and Vue.js.
 - 💞️ I’m looking to collaborate on UI/UX Design projects.
 - 📫 Contact me @ therealtaki.z@gmail.com
 
